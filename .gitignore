@@ -1,0 +1,30 @@
+# macOS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# R
+.Rhistory
+.Rapp.history
+.RData
+.Ruserdata
+
+# Temporary files
+*~
+.#*
+\#*#
+
+# Large data files (uncomment if needed)
+# *.bam
+# *.sam
+# *.fastq
+# *.fq
+
+# Log files
+*.log
+*.out
+*.err
