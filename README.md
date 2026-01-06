@@ -1,4 +1,4 @@
-# Pan-Pathogen Activation of Transposable Elements Shapes Host Immune Responses
+# Recurrent Activation of Human Transposable Elements Shapes Immune Responses in Pan-pathogen Infections
 
 This repository contains the computational analysis pipeline and code for the research project studying how various pathogens activate transposable elements (TEs) in host cells and their impact on immune responses.
 
