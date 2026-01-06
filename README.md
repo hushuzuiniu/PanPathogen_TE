@@ -121,7 +121,7 @@ TE_Gene_analysis(
 bash 05.TF_prediction/01.get_TE_loci_bed_and_sequences.sh
 
 # Find enriched motifs
-bash 05.TF_prediction/02.MEME_find_motif.sh
+bash 05.TF_prediction/02.HOMER_per_subfamily.sh
 ```
 
 ## Data Organization
@@ -154,42 +154,3 @@ bash 05.TF_prediction/02.MEME_find_motif.sh
 6. **Regulatory Analysis**: TF binding prediction and regulatory element overlap
 7. **Integration**: Multi-omics integration and visualization
 
-## Key Findings
-
-- **Pan-pathogen TE activation**: Different pathogens activate overlapping sets of TE families
-- **Immune response correlation**: TE activation correlates with host immune gene expression
-- **Evolutionary conservation**: Recurrently activated TEs show specific evolutionary patterns
-- **Regulatory potential**: TE-derived sequences contribute transcription factor binding sites
-
-## Citation
-
-If you use this code or data, please cite:
-
-```bibtex
-@article{wei2024panpathogen,
-  title={Pan-Pathogen Activation of Transposable Elements Shapes Host Immune Responses},
-  author={Wei, Xiaoman and Hu, Shu and Xu, Tianqi and Lu, Chengjun and Cui, Jie},
-  journal={[Journal Name]},
-  year={2024},
-  publisher={[Publisher]}
-}
-```
-
-## Support
-
-For questions about the analysis pipeline or code:
-- Create an issue in this repository
-- Contact: jiecui@fudan.edu.cn
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Acknowledgments
-
-- Shanghai Sci-Tech Innovation Center for Infection & Immunity
-- Fudan University
-- All contributors to the data analysis and methodology development
-## Updates
-
-- Initial release of comprehensive TE analysis pipeline
