@@ -4,14 +4,12 @@ This repository contains the computational analysis pipeline and code for the re
 
 ## Authors
 
-**Xiaoman Wei¹,³, Shu Hu²,³, Tianqi Xu², Chengjun Lu², Jie Cui¹,⁴***
-
-¹ Shanghai Sci-Tech Innovation Center for Infection & Immunity, National Medical Center for Infectious Diseases, Huashan Hospital, Institute of Infection and Health, Fudan University, Shanghai, China  
-² Fudan University, Shanghai, China  
-³ These authors contributed equally  
-⁴ Lead contact  
-
-*Correspondence: jiecui@fudan.edu.cn
+**Xiaoman Wei¹,³, Shu Hu¹,³, Tianqi Xu¹, Chengjun Lu¹, Xun Chen², Wenhong Zhang¹*, Jie Cui¹,⁴***
+¹ Shanghai Sci-Tech Inno Center for Infection & Immunity, National Medical Center for Infectious Diseases, Huashan Hospital, Institute of Infection and Health, Fudan University, Shanghai, China.
+² Shanghai Institute of Immunity and Infection, Chinese Academy of Sciences, Shanghai, China.
+³ These authors contributed equally
+⁴ Lead contact
+*Correspondence: zhangwenhong@fudan.edu.cn; jiecui@fudan.edu.cn
 
 ## Project Overview
 
